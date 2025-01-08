@@ -21,5 +21,5 @@ Este projeto foi desenvolvido para extrair informações de atas de reuniões fe
 ## **Como Utilizar**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-repositorio.git
-   cd seu-repositorio
+   git clone 
+   cd 
