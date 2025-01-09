@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import easyocr
 
-image_file_name = r"C:\Users\Dell\Downloads\Atas\Atas.py\segredinho.jpeg"
+image_file_name = r"C:\Users\Dell\Downloads\Atas\Atas.py\teste.jpeg"
 image = cv2.imread(image_file_name)
 
 if image is None:
